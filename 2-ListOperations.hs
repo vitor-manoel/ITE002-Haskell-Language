@@ -1,4 +1,4 @@
-module Teste where
+module ListOperations where
 
     dobroLista :: [Int] -> [Int]
     dobroLista xs = [2 * x | x <- xs]

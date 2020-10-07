@@ -1,4 +1,4 @@
-module Teste where
+module PatternMatching where
 
     f :: (Int, Int) -> Int
     f (0,0) = 0

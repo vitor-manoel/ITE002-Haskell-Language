@@ -1,4 +1,4 @@
-module Teste where
+module NewTypes where
 
     data Dia = Segunda | Terca | Quarta | Quinta | Sexta | Sabado | Domingo
 
